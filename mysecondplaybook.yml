@@ -4,5 +4,5 @@
   tasks:
 - name: i want to install git  
   apt:
-  name: git
-  state: present
+    name: git
+    state: present
